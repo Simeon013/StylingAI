@@ -1,0 +1,7 @@
+{
+  "name": "Essayage Virtuel IA",
+  "description": "Une application qui utilise l'IA pour vous permettre d'essayer virtuellement des vêtements et des accessoires. Téléchargez une photo de vous, une photo d'un article, et voyez le résultat.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
